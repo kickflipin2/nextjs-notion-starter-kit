@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '40de4037d5074383bcd84767d9362073',
+  rootNotionPageId: '685f1ec60eef40cdbf217e7b91518927',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '최원석 이력서',
+  name: '온라인 이력서 만들기',
   domain: 'wschoi.vercel.app',
   author: '최원석',
 
