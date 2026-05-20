@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Notion-Github-Vercel 온라인 이력서 제작방법',
+  domain: 'https://notion-starter-kmou.vercel.app',
   author: 'Woen-Sug Choi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Notion페이지를 Github-Vercel을 이용해 Nextjs기반 온라인 이력서 페이지 제작방법',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',

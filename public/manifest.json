@@ -1,21 +1,16 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Online Resume",
+  "short_name": "Online Resume",
   "icons": [
     {
       "src": "/favicon.png",
       "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/favicon-32.png",
+      "type": "image/png",
       "sizes": "32x32"
-    },
-    {
-      "src": "/favicon-128x128.png",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "/favicon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
     }
   ],
   "theme_color": "#000000",
